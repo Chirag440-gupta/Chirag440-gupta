@@ -1,6 +1,31 @@
-## Hi there 👋
-# 💫 About Me:
-I'm currently working on<br><br>Full Stack projects using MERN Stack (MongoDB, Express, React, Node.js)<br><br>Recipe Logger with Cooking Timer (JavaFX + API integration)<br><br>NeuroTalk-GPT (AI-powered chat application)<br><br>Omevia – video chat & matchmaking platform with Google Auth<br><br>🤝 I'm looking to collaborate on<br><br>Open-source MERN / React / Java projects<br><br>DSA-focused projects & problem-solving platforms<br><br>AI-integrated web applications<br><br>🤔 I'm looking for help with<br><br>Advanced DSA optimization & problem patterns<br><br>System Design basics for interviews<br><br>Scaling full-stack applications<br><br>🌱 I'm currently learning<br><br>Data Structures & Algorithms (Java)<br><br>Advanced React (Hooks, Performance, State Management)<br><br>Backend optimization & API design<br><br>💬 Ask me about<br><br>Java, DSA, Linked Lists, Trees, Graphs<br><br>React, Express, MongoDB, REST APIs<br><br>Building real-world projects from scratch<br><br>⚡ Fun fact<br><br>I enjoy turning DSA problems into clean, optimized code and building projects that actually solve real problems
+## 👋 Hi, I'm Chirag Gupta
+
+🚀 MERN Stack Developer | Strong in DSA & Backend Fundamentals  
+📍 Open to Full-Time / Internship / Remote Opportunities
+
+### 💼 What I Do
+- Build full-stack web apps using **React, Node.js, Express, MongoDB**
+- Design **REST APIs**, authentication & role-based access
+- Write **clean, optimized code** with real-world focus
+
+### 🛠 Featured Projects
+🔹 **Food Ordering App (RBAC)**
+- React + Express + MongoDB
+- Role-based access (Admin/User)
+- Auth, APIs, scalable structure  
+👉 Repo: link
+
+🔹 **Webhook Backend Assignment**
+- Production-grade backend
+- SQLite, Docker, Webhooks  
+👉 Repo: link
+
+### 📚 Currently Improving
+- DSA (Trees, Graphs, DP)
+- Backend optimization & system basics
+
+📫 Reach me: LinkedIn | Email
+
 
 
 ## 🌐 Socials:

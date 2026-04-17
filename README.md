@@ -1,30 +1,47 @@
 ## 👋 Hi, I'm Chirag Gupta
 
-🚀 MERN Stack Developer | Strong in DSA & Backend Fundamentals  
+🚀 Backend Developer (Java | Spring Boot) | REST APIs | Microservices | DSA (200+) 
 📍 Open to Full-Time / Internship / Remote Opportunities
 
 ### 💼 What I Do
-- Build full-stack web apps using **React, Node.js, Express, MongoDB**
-- Design **REST APIs**, authentication & role-based access
-- Write **clean, optimized code** with real-world focus
+- Build scalable backend systems using Java & Spring Boot
+- Design secure REST APIs with JWT & RBAC authentication
+- Optimize performance and handle real-world system workflows
+- Work with databases like MySQL & PostgreSQL
 
 ### 🛠 Featured Projects
-🔹 **Food Ordering App (RBAC)**
-- React + Express + MongoDB
-- Role-based access (Admin/User)
-- Auth, APIs, scalable structure  
-👉 Repo: link
+🔹 API Failure Detector
 
-🔹 **Webhook Backend Assignment**
-- Production-grade backend
-- SQLite, Docker, Webhooks  
-👉 Repo: link
+Detects API failures and alerts in real-time
+Built using Java, Spring Boot
+👉 View Repo
+
+🔹 Recipe Logger Backend Service
+
+Production-ready REST API with layered architecture
+Optimized queries, ensured data consistency
+👉 View Repo
+
+🔹 NeuroTalk GPT
+
+Full-stack AI chat app (Spring Boot + React)
+JWT authentication & scalable backend design
+👉 View Repo
+
+###🚀 Key Achievements
+Improved API response time by ~30%
+Maintained 99%+ uptime in backend services
+Solved 200+ DSA problems on LeetCode  
+
 
 ### 📚 Currently Improving
 - DSA (Trees, Graphs, DP)
 - Backend optimization & system basics
 
-📫 Reach me: LinkedIn | Email
+###📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/chirag-gupta-358a30258/
+💻 GitHub: https://github.com/Chirag440-gupta
+📧 Email: guptachirag111433@gmail.com
 
 
 
